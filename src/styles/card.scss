@@ -1,0 +1,13 @@
+@import 'colors.scss';
+.card{
+    width: 40%;
+    // border: 2px solid black;
+    text-align: center;
+    font: 300 2rem $text2;
+
+    background-color: $first;
+    height: 400px;
+    border-radius: 20px;
+    padding: 20px;
+
+}
